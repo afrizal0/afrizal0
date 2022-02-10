@@ -1,11 +1,6 @@
 
 ## Info
 
-Hi there, I'm Afrizal a Software Engineering Student.
-
-- :computer: I'm a student of vocation high school major software engineering
-- :school: I'm looking forward to learn : django, golang
-
 [![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=afriiizal&layout=wide)](https://twitter.com/afriiizal)
 
 </details>
