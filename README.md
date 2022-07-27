@@ -13,17 +13,16 @@ I am a graduated vocational high school student, currently learning about Backen
 
 I am also interested in open source and still learning about open source 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 - 💼 any freelance work? do reach, [email](mailto:afriizaalll@gmail.com) :)
 - 💬 ask me about anything, i am happy reply;
 
-**languages and tools:**  
+**languages:**  
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,git,cpp,go,express,vim,&theme=dark)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=react,py,javascript,mysql,md,php,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=go,cpp,py,javascript,md,php,&theme=dark)](https://skills.thijs.gg)
 
+**tools / frameworks:**
 
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,git,react,express,vim,mysql,&theme=dark)](https://skills.thijs.gg)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
