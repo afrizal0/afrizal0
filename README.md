@@ -24,15 +24,20 @@ I am also interested in open source and still learning about open source
 
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,git,react,express,vim,mysql,&theme=dark)](https://skills.thijs.gg)
 
+
 📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+<figure >
+  <p align=center>
+    <img src="https://wakatime.com/share/@afrizal0/2076ade9-34b7-42b2-bc9b-21c4a0d570b3.svg" height=400></img>
+  </p>
+</figure>
+
+<br />
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://saweria.co/afrizal0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
 
 📈 my github stats
 
