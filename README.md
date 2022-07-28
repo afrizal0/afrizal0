@@ -29,7 +29,7 @@ I am also interested in open source and still learning about open source
 
 <figure >
   <p align=center>
-    <img src="https://wakatime.com/share/@afrizal0/2076ade9-34b7-42b2-bc9b-21c4a0d570b3.svg" height=400></img>
+    <img src="https://wakatime.com/share/@afrizal0/4522f9e9-a60d-43d4-9ef1-4a0b654ce413.svg" height=400></img>
   </p>
 </figure>
 
