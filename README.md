@@ -15,7 +15,7 @@ open sourcerer
 
 **languages:**  
 
-[![My Skills](https://skills.thijs.gg/icons?i=go,cpp,py,javascript,md,php,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=go,cpp,py,javascript,&theme=dark)](https://skills.thijs.gg)
 
 **tools / frameworks:**
 
