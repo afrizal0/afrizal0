@@ -10,9 +10,6 @@
 <br />
 open sourcerer 
 
-- 💼 any freelance work? do reach, [email](mailto:afriizaalll@gmail.com) :)
-- 💬 ask me about anything, i am happy reply;
-
 **languages:**  
 
 [![My Skills](https://skills.thijs.gg/icons?i=go,cpp,py,javascript,&theme=dark)](https://skills.thijs.gg)
