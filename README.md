@@ -16,7 +16,7 @@ open sourcerer
 
 **tools / frameworks:**
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,git,react,express,vim,mysql,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,git,express,vim,mysql,&theme=dark)](https://skills.thijs.gg)
 
 
 📊 **this week i spent my time on:**
